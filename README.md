@@ -5,7 +5,7 @@
 - 💞️ I’m Always excited to learn new Things
 
 
-- :telescope: I’m currently working on <strong>JavaScript , LARAVEL</strong>
+- :telescope: I’m currently working on <strong>JavaScript , Laravel</strong>
 
 ### 💻 Tech & Tools Preference
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,js,react,nextjs,vite,php,laravel,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,wordpress,git,github,selenium,postman,figma,xd)](https://skills.thijs.gg)
