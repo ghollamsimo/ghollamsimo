@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohamed - Ghollam
 - 👀 I’m interested in Web Development and Design
 - 🌱 I’m currently learning Web Development
-- 🏫 I'm a Student at @YouCodeSchool
+- 🏫 I'm a Student at @YouCodeSchool | OCP | UM6P
 - 💞️ I’m Always excited to learn new Things
 
 
