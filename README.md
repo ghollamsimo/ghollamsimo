@@ -6,6 +6,7 @@
 
 
 - :telescope: I’m currently working on <strong>Reactjs , Laravel </strong>
+<a href="https://app.daily.dev/medghollam"><img src="https://api.daily.dev/devcards/407d08dce66745b3a61b0a3afcdea8cc.png?r=i58" width="400" alt="GhollamMed's Dev Card"/></a>
 
 ### 💻 Tech & Tools Preference
 [![My Skills](https://skills.thijs.gg/icons?i=html,c,css,sass,js,react,nextjs,vite,php,laravel,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,wordpress,git,github,selenium,postman,figma,xd)](https://skills.thijs.gg)
