@@ -1,8 +1,8 @@
 -  Hi there, I'm Ghollam Mohamed!
-- 👀 I’m interested in Web Development and Design.
-- 🌱 I’m currently learning Web Development.
-- 🏫 I'm a Student at @YouCodeSchool | OCP | UM6P.
-- 💞️ I’m Always excited to learn new Things.
+- 👀 I’m interested in Web Development and Design
+- 🌱 I’m currently learning Web Development
+- 🏫 I'm a Student at @YouCodeSchool | OCP | UM6P
+- 💞️ I’m Always excited to learn new Things
 
 
 - :telescope: I’m currently working on <strong>React.js , Laravel .</strong>
