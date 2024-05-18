@@ -8,7 +8,7 @@
 - :telescope: I’m currently working on <strong>Flutter , Django , Next.js </strong>
 
 ### 💻 Tech & Tools Preference
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,js,ts,angular,react,nextjs,vue,vite,java,php,python,laravel,django,express,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,wordpress,git,github,selenium,postman,figma,xd)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,c,css,sass,js,react,redux,nextjs,vite,php,laravel,django,docker,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,wordpress,git,github,selenium,postman,figma,xd)](https://skills.thijs.gg)
 
 
 <p align="center">
