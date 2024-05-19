@@ -1,4 +1,4 @@
--  Hi there, I'm Ghollam Mohamed !
+-  Hi there, I'm Ghollam Mohamed 
 - 👀 I’m interested in Web Development and Design
 - 🌱 I’m currently learning Web Development
 - 🏫 I'm a Student at @YouCodeSchool | OCP | UM6P
