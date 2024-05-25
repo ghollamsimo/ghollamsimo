@@ -1,11 +1,11 @@
--  Hi there, I'm Ghollam Mohamed 
+-  Hi there, I'm Ghollam Mohamed !
 - 👀 I’m interested in Web Development and Design
 - 🌱 I’m currently learning Web Development
-- 🏫 I'm a Student at @YouCodeSchool | OCP | UM6P
+- 🏫 I'm a Student at @YouCodeSchool | (Ocp , Um6p)
 - 💞️ I’m Always excited to learn new Things
 
 
-- :telescope: I’m currently working on <strong>Flutter , Django , Next.js </strong>
+- :telescope: I’m currently working on <strong> Flutter , Django , Next.js </strong>
 
 ### 💻 Tech & Tools Preference
 [![My Skills](https://skills.thijs.gg/icons?i=html,c,css,sass,js,react,redux,nextjs,vite,php,laravel,django,docker,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,wordpress,git,github,selenium,postman,figma,xd)](https://skills.thijs.gg)
