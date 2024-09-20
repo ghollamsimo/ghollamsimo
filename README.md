@@ -5,7 +5,7 @@
 - 💞️ I’m Always excited to learn new Things
 
 
-- :telescope: I’m currently working on <strong> Flutter , Django , Next.js </strong>
+- :telescope: I’m currently working on <strong>JavaScript Frameworks</strong>
 
 ### 💻 Tech & Tools Preference
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,js,react,nextjs,redux,nuxtjs,nestjs,express,php,laravel,django,flutter,docker,ts,mongodb,mysql,firebase,postgres,svg&theme=light)](https://skillicons.dev)
