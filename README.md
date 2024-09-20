@@ -8,7 +8,7 @@
 - :telescope: I’m currently working on <strong> Flutter , Django , Next.js </strong>
 
 ### 💻 Tech & Tools Preference
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,nuxtjs,nestjs,express,php,laravel,django,flutter,docker,typescript,mongodb,mysql,postgres,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,react,nextjs,redux,nuxtjs,nestjs,express,php,laravel,django,flutter,docker,ts,mongodb,mysql,firebase,postgres,svg&theme=light)](https://skillicons.dev)
 
 
 
