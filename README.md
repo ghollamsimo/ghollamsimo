@@ -8,7 +8,7 @@
 - :telescope: I’m currently working on <strong>JavaScript Frameworks</strong>
 
 ### 💻 Tech & Tools Preference
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,sass,tailwind,js,ts,jest,react,nextjs,redux,nodejs,nestjs,express,php,laravel,py,django,flutter,docker,mongodb,mysql,firebase,postgres,svg&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,sass,tailwind,js,ts,jest,nodejs,react,nextjs,redux,nestjs,express,php,laravel,py,django,flutter,docker,mongodb,mysql,firebase,postgres,svg&theme=light)](https://skillicons.dev)
 
 
 
